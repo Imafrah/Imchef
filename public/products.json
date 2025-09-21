@@ -1,0 +1,66 @@
+[
+  {
+    "id": "1",
+    "name": "Artisan Ramen Noodles",
+    "description": "Premium wheat noodles with perfect texture and bounce",
+    "price": 299,
+    "image": "/Product_Images/Artisan_Ramen_Noodles.png",
+    "category": "noodles"
+  },
+  {
+    "id": "2",
+    "name": "Spicy Sriracha Sauce",
+    "description": "Fiery red chili sauce with garlic and tangy vinegar",
+    "price": 199,
+    "image": "/Product_Images/Spicy_Sriracha_Sauce.png",
+    "category": "sauces"
+  },
+  {
+    "id": "3",
+    "name": "Udon Thick Noodles",
+    "description": "Traditional Japanese thick wheat noodles",
+    "price": 249,
+    "image": "/Product_Images/Udon_Thick_Noodles.png",
+    "category": "noodles"
+  },
+  {
+    "id": "4",
+    "name": "Teriyaki Glaze",
+    "description": "Sweet and savory Japanese-style sauce",
+    "price": 229,
+    "image": "/Product_Images/Teriyaki_Glaze.png",
+    "category": "sauces"
+  },
+  {
+    "id": "5",
+    "name": "Soba Buckwheat Noodles",
+    "description": "Nutty buckwheat noodles, perfect hot or cold",
+    "price": 319,
+    "image": "/Product_Images/Soba_Buckwheat_Noodles.png",
+    "category": "noodles"
+  },
+  {
+    "id": "6",
+    "name": "Garlic Chili Oil",
+    "description": "Aromatic oil infused with garlic and chili flakes",
+    "price": 249,
+    "image": "/Product_Images/Garlic_Chili_Oil.png",
+    "category": "sauces"
+  },
+  {
+    "id": "7",
+    "name": "Rice Vermicelli",
+    "description": "Delicate rice noodles for stir-fries and soups",
+    "price": 179,
+    "image": "/Product_Images/Rice_Vermicelli.png",
+    "category": "noodles"
+  },
+  {
+    "id": "8",
+    "name": "Miso Paste",
+    "description": "Rich umami paste for broths and marinades",
+    "price": 289,
+    "image": "/Product_Images/Miso_Paste.png",
+    "category": "sauces"
+  }
+]

@@ -1,0 +1,7 @@
+{
+  "client_secret": "pi_mock_1234567890_secret_abcdef123456",
+  "amount": 2000,
+  "currency": "usd",
+  "customer_email": "customer@example.com",
+  "customer_name": "John Doe"
+}
