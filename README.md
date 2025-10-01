@@ -7,6 +7,8 @@
 ## Features
 - **AI-Assisted Development:** Built with Cursor for code generation, refactoring, and automation.  
 - **React Frontend:** Responsive UI with dynamic product catalog and category-based listings.  
+- **Firebase Authentication:** Secure user sign-up and login.  
+- **Google Cloud Backend:** Cloud support for serverless functions and data management.  
 - **EmailJS Integration:** Automated order confirmation and notifications.  
 - **Vercel Deployment:** Fast, scalable cloud hosting.  
 - **Premium UX/UI:** Clean design with professional product display.  
@@ -15,11 +17,16 @@
 ---
 
 ## Tech Stack
-- **Frontend:** React  
-- **Deployment:** Vercel  
-- **Order Automation:** EmailJS  
-- **AI Tools:** Cursor and other AI-assisted development tools  
-- **Styling & Scripting:** Modern CSS/JavaScript  
+
+| Layer | Technology | Purpose |
+|-------|------------|---------|
+| **Frontend** | React | Responsive UI, dynamic product catalog |
+| **Authentication** | Firebase Authentication | User sign-up and login management |
+| **Backend Support** | Google Cloud | Cloud functions, database, and serverless support |
+| **AI Development** | Cursor | Code generation, automation, and rapid prototyping |
+| **Deployment** | Vercel | Fast, scalable hosting for frontend |
+| **Order Notifications** | EmailJS | Automated email confirmation for orders |
+| **UI / Styling** | CSS / JavaScript | Modern, clean design and interactive elements |
 
 ---
 ## Screenshot
