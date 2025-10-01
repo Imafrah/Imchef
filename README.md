@@ -27,14 +27,14 @@
 
 
 ## Live Demo
-Check out the live website here: [Imchef E-Commerce Platform](https://imchef.vercel.app/)
+Check out the live website here: [Imchef](https://imchef.vercel.app/)
 
 
 ## Getting Started
 
 1. **Clone the repo:**
 ```bash
-git clone https://github.com/YOUR-USERNAME/imchef.git
+git clone https://github.com/Imafrah/imchef.git
 cd imchef
 ```
 2. Install dependencies:
