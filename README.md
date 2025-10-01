@@ -20,7 +20,7 @@
 
 | Layer | Technology | Purpose |
 |-------|------------|---------|
-| **Frontend** | React | Responsive UI, dynamic product catalog |
+| **Frontend** | React,Typescript | Responsive UI, dynamic product catalog |
 | **Authentication** | Firebase Authentication | User sign-up and login management |
 | **Backend Support** | Google Cloud | Cloud functions, database, and serverless support |
 | **AI Development** | Cursor | Code generation, automation, and rapid prototyping |
