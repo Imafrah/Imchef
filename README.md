@@ -23,7 +23,7 @@
 
 ---
 ## Screenshot
-![Imchef Homepage](<img width="1351" height="681" alt="image" src="https://github.com/user-attachments/assets/61aa677b-f91b-4ae0-a2c8-fbfdce076e4f" />)
+<img width="1351" height="681" alt="image" src="https://github.com/user-attachments/assets/61aa677b-f91b-4ae0-a2c8-fbfdce076e4f" />
 
 
 ## Live Demo
